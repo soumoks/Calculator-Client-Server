@@ -1,4 +1,6 @@
 package Client;
+import Client.View.View;
+import Client.Controller.ClientController;
 
 public class ClientApp {
     public static void main(String [] args){
